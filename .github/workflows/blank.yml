@@ -132,4 +132,5 @@ jobs:
           path: |
             logs/
             PKG-INFO
+            
         on: workflow_dispatch
